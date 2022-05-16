@@ -15,5 +15,6 @@
   
 #### The final product:  
   
-Notebook walkthrough of Geron chapter two and paper on principal component analysis can both be found in the root of this repository.  
+Notebook walkthrough of Geron chapter two and paper on principal component analysis can both be found in the root of this repository. 
+For this assignment we have chosen to work with the iris dataset. We will train three different algorithms, measure their score and conclude from our results. Lastly we will reduce the dimension of the features with the use of princical component analysis and measure if it affects the runtime.
   
